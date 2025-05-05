@@ -5,7 +5,7 @@ This repository contains an Excel-based sales performance dashboard.
 
 ## Screenshots
 
-![Sales Dashboard Screenshot](./Screenshot 2025-05-05 232454)
+![Sales Dashboard Screenshot](./Screenshot%202025-05-05%20232454.png)
 
 ## Features
 - Overview of monthly sales data
